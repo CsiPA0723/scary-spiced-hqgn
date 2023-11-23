@@ -1,0 +1,6 @@
+{
+  "type": "shield",
+  "common": {
+    "max_strikes": 1
+  }
+}
