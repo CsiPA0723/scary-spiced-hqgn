@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "CsiPA",
+      "uniqueId": "f6a86786-3da9-4d2d-abd4-1483926e2fa8"
+    },
+    "time": 1701196093911,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/m3K4jtOHW0"
+    }
+  }
+]
